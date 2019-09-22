@@ -1,2 +1,2 @@
-# HP_landingpage
+# HC_landingpage
 HappyCode - Landing Page
